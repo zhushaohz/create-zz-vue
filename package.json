@@ -1,0 +1,23 @@
+{
+  "name": "create-zz-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "create-zz-vue": "bin/create-zz-vue.js"
+  },
+  "keywords": [],
+  "author": "zhushaohz",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^9.1.0",
+    "download-git-repo": "^3.0.2",
+    "esm": "^3.2.25",
+    "inquirer": "^8.2.2",
+    "ora": "^5.4.1"
+  }
+}
