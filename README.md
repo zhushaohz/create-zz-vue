@@ -1,6 +1,6 @@
 # a vite+vue3 template from zhushaohz
 
-
+![npm](https://img.shields.io/npm/v/create-zz-vue)
 ![GitHub](https://img.shields.io/github/license/zhushaohz/create-zz-vue)
 ## Install 
 
